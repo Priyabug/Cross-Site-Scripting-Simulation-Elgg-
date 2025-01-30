@@ -23,10 +23,10 @@ In this project, vulnerability is to conduct an XSS attack on the modified Elgg 
 
 <h2>Program walk-through:</h2>
 
-Task 1: Posting a Malicious Message to Display an Alert Window<br>
-Task 2: Posting a Malicious Message to Display Cookies<br>
-Task 3: Stealing Cookies from the Victim’s Machine<br>
-Task 4: Becoming the Victim’s Friend<br>
+<b>Task 1: Posting a Malicious Message to Display an Alert Window<br>
+<b>Task 2: Posting a Malicious Message to Display Cookies<br>
+<b>Task 3: Stealing Cookies from the Victim’s Machine<br>
+<b>Task 4: Becoming the Victim’s Friend<br>
 
 <embed src a href="https://drive.google.com/file/d/1uCxoX4KH4VHQnJwIdMl1H1Zu7jlkE_vg/view" alt=""></a> </embed>
 
