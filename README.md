@@ -16,6 +16,7 @@ In this project, vulnerability is to conduct an XSS attack on the modified Elgg 
 
 - <b>Python</b> 
 - <b>Ununtu 20.04 VM</b>
+- <b>Linux </b>
 
 <h2>Environments Used </h2>
 
